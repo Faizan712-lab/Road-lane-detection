@@ -1,0 +1,6 @@
+Model Training Suggestion:
+If you want to train your DRL model, you can use Deep Q-Learning or Proximal Policy Optimization (PPO):
+
+Dataset: Use lane marking datasets like TuSimple or CULane.
+Model Architecture: Convolutional Neural Networks (CNN) with reinforcement learning.
+Reward Function: Design rewards for correctly identifying lanes and penalties for wrong predictions.
