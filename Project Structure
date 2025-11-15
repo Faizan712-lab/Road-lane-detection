@@ -1,0 +1,8 @@
+📂 Road-Lane-Detection/
+│
+├── 📄 LaneDetection.py        # main code file
+├── 🎥 test2.mp4               # input road video
+├── 🖼️ test.jpg                # sample image (optional)
+├── 📄 requirements.txt        # dependencies
+├── 📄 README.md               # project explanation
+└── 📄 .gitignore              # optional (ignore large files)
